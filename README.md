@@ -9,3 +9,4 @@ _Linux OS Required_
 2. Run parser - python parses json into redable format
 
 <h3>Does not apply to CYOT</h3>
+<h3>Use shel file only. Other scripter files unstable.</h3>
