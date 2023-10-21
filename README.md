@@ -11,4 +11,5 @@ _Linux OS Required_
 
 <h3>Does not apply to CYOT</h3>
 <h3>Use shel file only. Other scripter files unstable.</h3>
-(.sh, .bash)
+- '.sh'
+- 'bash
