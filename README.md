@@ -4,8 +4,9 @@ Ans Extarctor for infinity meta
 Bearer Token required.
 [proxy infinity meta site and intercept post requests]
 
-_Linux OS Required_
-1. Move the scripter file to parer folder
+_Linux OS Required (for script files)_
+_Alternatively use git bash terminal_
+1. Move the scripter file to parser folder
 2. Run curler on terminal - Creates test details in json format
 3. Run parser - python parses json into redable format
 
