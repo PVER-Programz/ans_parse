@@ -16,7 +16,9 @@ _Alternatively use git bash terminal_
   '.bash'
 
 <h3>METHOD 2</h3>
-  1. Get test_id 
-  2. Download Parser/Parse_v4.py
-  3. Run the file
-  4. Enter Details
+
+_Alternate methaod for extraction_
+1. Get test_id
+2. Download Parser/Parse_v4.py
+3. Run the file
+4. Enter Details
