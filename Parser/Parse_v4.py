@@ -3,8 +3,8 @@
 rookie_id = '<YOUR_ROOKIE>'  
 rookie_pwd = "<IL Meta Password>"
 test_id = "<TEST-ID>" 
-channel = '<YOUR-WEBHOOK>'  
-send_dscd = True 
+channel = '<YOUR-WEBHOOK>'  # Optional
+send_dscd = False # Set true if rediredting to discord
 
 import json
 import requests
