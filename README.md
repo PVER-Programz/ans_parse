@@ -14,3 +14,9 @@ _Alternatively use git bash terminal_
 <h3>Use shel file only. Other scripter files unstable.</h3>
   '.sh', 
   '.bash'
+
+<h3>METHOD 2</h3>
+  1. Get test_id 
+  2. Download Parser/Parse_v4.py
+  3. Run the file
+  4. Enter Details
